@@ -1,28 +1,40 @@
-# QUARTZ
-## The first brain-controlled drone race just took place in Florida
+# _Article Recreation_
 
-![guy jedi minding a drone](https://qzprod.files.wordpress.com/2016/04/brain-drone1.jpeg?quality=80&strip=all&w=1600)
-*A pilot getting fitted with a BCI. (University of Florida/Bernard Brzezinski)*
---------
+#### _Recreation of an article in Mark Down for format learning purposes, May 2nd, 2016_
 
-In the future, if you want to go somewhere or have your robot do something, you might only have to think about it.
+#### By _**April Peng (full project) & Dan Schafer (README portion)**_
 
-The University of Florida held a race April 22 which it called the first drone race controlled by the thoughts of the pilots. According [to Motherboard](http://motherboard.vice.com/en_uk/read/brain-powered-drone-race), the pilots used a device that measured the electrical signals from their brains, called a brain-computer interface (or BCI) to direct the drones.
+## README practice
 
-![UF picture](https://qzprod.files.wordpress.com/2016/04/2016-04-116_brain_controlled_drone_race-1753.jpg?quality=80&strip=all&w=1024)
+_The purpose of this is to get additional practice in git stuffs - creating and initiating pairs, cloning a doc from github, adding a README to a prior project (which actually I had already done so that I could see the formatting of the article recreation on the github face. I had to change that one to READMEformer.md)
 
-The pilots look at a computer program, think about going “forward,” and the drones slowly move ahead.
+## Setup/Installation Requirements
 
-[![video of UF drone race](http://img.youtube.com/vi/C0s3w-wqcI8.jpg)](https://www.youtube.com/watch?v=C0s3w-wqcI8 "University of Florida brain-drone race")
+*_First you set up your pairs with initials and email addresses_
+*_Then you clone your intended folder from github_
+*_Change into the cloned folder_
+*_Make sure all your prior changes are in the git log_
+*_Make sure you do remove -v to set origin_
+*_Initiate your pair_
+*_Create your README.md in the folder_
+*_git-pair-commit your creation and other changes_
 
-“Think forward—think about pushing a chair forward,” Juan Gilbert, a computer science professor at the University of Florida, said in a video released by the university. “We learn to navigate the drone based on brain patterns for specific things you are thinking about.”
+_Make sure you do all this in .md so that it's a nice, readable preview in github. Use Daring Fireball and dillinger.io in your web browsers for the actual article recreation!_
 
-![guy looking at a screen](https://qzprod.files.wordpress.com/2016/04/2016-04-116_brain_controlled_drone_race-1897.jpg?quality=80&strip=all&w=1024)
+## Known Bugs
 
-These drones weren’t blistering around a racetrack at 70 mph as [most drone races](http://qz.com/660282/drone-racing-just-became-a-mainstream-sport-thanks-to-espn/) tend to do—instead, the drones were slowly, jerkily moving forward and side-to-side, as the pilots tried to concentrate at moving them.
+_Damn, I dunno any at this point!_
 
-![another freaking picture](https://qzprod.files.wordpress.com/2016/04/2016-04-116_brain_controlled_drone_race-3484.jpg?quality=80&strip=all&w=1024)
+## Support and contact details
 
-BCIs are not yet at the point that we can use them as easily as we might a handheld controller. But similar technology is being developed to allow amputees to control [robotic limbs](http://qz.com/436239/soon-well-be-able-to-control-robot-limbs-with-our-minds-like-luke-skywalker/). In the future, we may well be able to recreate Luke Skywalker’s robotic hand from Star Wars. We all may have the power to control objects like a Jedi, assuming technology is robust enough to make sure we don’t crash into everything.
+_You can email me at helloaprilpeng@gmail.com. Don't bother Dan because he's just an onlooker here. Contact him for moral support!_
 
-“We’re starting a new trend in society,” Gilbert said. “We’re starting out with a simple little race right now, but who knows where this will go.”
+## Technologies used
+
+_Markdown, Atom, Github, Terminal, Chrome browser_
+
+### License
+
+*MY FIST!*
+
+Copyright (c) 2016 **_April Peng_**
